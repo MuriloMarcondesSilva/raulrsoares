@@ -17,4 +17,4 @@
  
 </div>
  
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=raulrsoares&repo=aulas-sibov&theme=react)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=raulrsoares&repo=aulas-sibov&theme=react)](https://github.com/raulrsoares/aulas-sibov)
