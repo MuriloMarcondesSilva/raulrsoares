@@ -17,5 +17,3 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=raulrsoares&repo=aulas-sibov&theme=react)](https://github.com/raulrsoares/aulas-sibov)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=raulrsoares&repo=aulas-lemos&theme=react)](https://github.com/raulrsoares/aulas-lemos)
