@@ -15,20 +15,20 @@
 
 
 <h3 align="left">:unlock:Idiomas e ferramentas:unlock:</h3>
-<div align="left">
+<lang align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</div>
+</lang>
 
 <br>
 
-<div align="left">
+<projeto align="left">
     <h3>
         :open_file_folder:Ultimos Projetos:open_file_folder:
     </h3>
     <a href="https://raulrsoares.github.io/projeto-udemy-html-rrs/" target="blank"> <img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" height="30" largura ="40" /> </a>
-</div>
+</projetos>
 
 <br>
 
@@ -42,7 +42,7 @@
 
 <br>
 
-<div alig="left">
+<addons alig="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="raulrsoares" />
-</div>
+</addons>
