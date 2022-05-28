@@ -12,8 +12,6 @@
 
 <p align="left"> <a href="https://twitter.com/imslowlydyin_" target="blank"><img src="https://img.shields.io/twitter/follow/imslowlydyin_?logo=twitter&style=for-the-badge" alt="imslowlydyin_" /></a> </p>
 
-
-
 <h3 align="left">:unlock:Idiomas e ferramentas:unlock:</h3>
 <lang align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -23,10 +21,8 @@
 
 <br>
 
+<h3 align="left">:open_file_folder:Ultimos Projetos:open_file_folder:</h3>
 <projeto align="left">
-    <h3>
-        :open_file_folder:Ultimos Projetos:open_file_folder:
-    </h3>
     <a href="https://raulrsoares.github.io/projeto-udemy-html-rrs/" target="blank"> <img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" height="30" largura ="40" /> </a>
 </projetos>
 
