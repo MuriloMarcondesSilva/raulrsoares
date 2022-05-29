@@ -6,7 +6,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <conect align="left">
     <a href="https://dev.to/raulrsoares" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="raulrsoares" height="30" largura ="40"></a>
-    <a href="https://linkedin.com/in/raul rodrigues soares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Raul Rodrigues Soares" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/raul rodrigues soares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raul Rodrigues Soares" height="30" width="40" /></a>
     <a href= "https://instagram.com/r4aulrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4aulrs" height="30" largura="40" /></a>
     <a href="https://discord.gg/r4ulzito#8134" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r4ulzito#8134" height="30" largura="40" /></a>
     <br>
@@ -20,14 +20,17 @@
 <lang align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer" > <img  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a>
+    <!--
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
 </lang>
 
 <br>
 
 <h3 align="left">:open_file_folder:Ultimos Projetos:open_file_folder:</h3>
 <projeto align="left">
-    <a href="https://raulrsoares.github.io/projeto-udemy-html-rrs/" target="blank"> <img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" height="30" largura ="40" /> </a>
+    <a href="https://raulrsoares.github.io/projeto-udemy-html-rrs/" target="blank"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" /> </a>
 </projetos>
 
 <br>
@@ -45,4 +48,5 @@
 <addons alig="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrsoares&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="raulrsoares" />
-</addons>
+</addons><br>
+<h1></h1>
