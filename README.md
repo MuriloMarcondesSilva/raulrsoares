@@ -4,13 +4,17 @@
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=raulrsoares&label=Profile%20views&color=brightgreen&style=flat" alt="raulrsoares" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://dev.to/raulrsoares" target="blank"><img align=" center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raulrsoares" height="30" largura ="40" /></a>
-<a href="https://linkedin.com/in/raul rodrigues soares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Raul Rodrigues Soares" height="30" width="40" /></a>
-<a href= "https://instagram.com/r4aulrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4aulrs" height="30" width="40" /></a>
-<a href="https://discord.gg/r4ulzito#8134" target="blank"><img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" alt="r4ulzito#8134" height="30" largura="40" /></a></p>
+<conect align="left">
+    <a href="https://dev.to/raulrsoares" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="raulrsoares" height="30" largura ="40"></a>
+    <a href="https://linkedin.com/in/raul rodrigues soares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Raul Rodrigues Soares" height="30" width="40" /></a>
+    <a href= "https://instagram.com/r4aulrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4aulrs" height="30" largura="40" /></a>
+    <a href="https://discord.gg/r4ulzito#8134" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r4ulzito#8134" height="30" largura="40" /></a>
+    <br>
+    <br>
+    <a href="https://twitter.com/imslowlydyin_" target="blank"><img src="https://img.shields.io/twitter/follow/imslowlydyin_?logo=twitter&style=for-the-badge" alt="imslowlydyin_" /></a>
+</conect>
 
-<p align="left"> <a href="https://twitter.com/imslowlydyin_" target="blank"><img src="https://img.shields.io/twitter/follow/imslowlydyin_?logo=twitter&style=for-the-badge" alt="imslowlydyin_" /></a> </p>
+<br>
 
 <h3 align="left">:unlock:Idiomas e ferramentas:unlock:</h3>
 <lang align="left">
