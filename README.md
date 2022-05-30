@@ -52,6 +52,7 @@
 </projetos>
 
 <br>
+<br>
 
 <addons alig="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=raulrsoares&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em"alt="raulrsoares" /> 
