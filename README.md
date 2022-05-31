@@ -44,12 +44,12 @@
 </div>
 -->
 
-<br>
+<!-- <br>
 
 <h3 align="left">:open_file_folder:Ultimos Projetos:open_file_folder:</h3>
 <projeto align="left">
     <a href="https://raulrsoares.github.io/projeto-udemy-html-rrs/" target="blank"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" /> </a>
-</projetos>
+</projetos> -->
 
 <br>
 <br>
